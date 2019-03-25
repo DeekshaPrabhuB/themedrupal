@@ -1,0 +1,17 @@
+name: my_theme
+type: theme
+description: 'My Awesome theme'
+package: Other
+core: 8.x
+libraries:
+  - my_theme/global-styling
+ 
+base theme: classy
+#Using Classy as a base theme https://www.drupal.org/theme-guide/8/classy
+
+regions:
+  site_logo: 'Site branding'
+  menu: 'Navigation menu'
+  featured_top: 'Featured top'
+  content: 'Content'
+  footer: 'Footer'
