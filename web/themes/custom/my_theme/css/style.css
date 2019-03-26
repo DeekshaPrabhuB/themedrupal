@@ -31,3 +31,16 @@
 ul.menu{
     margin-left: 6em;
 }
+
+.featured-top{
+    background-image: url('../images/women.jpeg');
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-size: 150vw 150vh;
+    max-width: 100%;
+   
+}
