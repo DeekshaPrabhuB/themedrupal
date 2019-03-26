@@ -1,0 +1,26 @@
+uuid: 6adaf92f-8a7e-490d-9daa-2f656016608e
+langcode: en
+status: false
+dependencies:
+  config:
+    - system.menu.tools
+  module:
+    - system
+  theme:
+    - my_theme
+_core:
+  default_config_hash: NeHSoqm4XFqA7_0bDmR429ZZQt3LRbZMNRJTMsFyOfI
+id: my_theme_tools
+theme: my_theme
+region: site_logo
+weight: 0
+provider: null
+plugin: 'system_menu_block:tools'
+settings:
+  id: 'system_menu_block:tools'
+  label: Tools
+  provider: system
+  label_display: visible
+  level: 1
+  depth: 0
+visibility: {  }

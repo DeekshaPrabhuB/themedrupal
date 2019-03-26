@@ -1,0 +1,33 @@
+.site-logo{
+    width: 25%;
+}
+.menu{
+    width:75%;
+}
+.site-header{
+    display: -webkit-box;
+    height: 75px;
+    background-color: #3E5062;
+    color:white;
+}
+
+.site-logo img{
+    width: 160px;
+    padding: 10px;
+    margin-left: 45px;
+}
+.menu .menu-item{
+    display: inline-block;
+    padding-top: 10px;
+}
+
+.menu .menu-item a{
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+ul.menu{
+    margin-left: 6em;
+}

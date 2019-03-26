@@ -1,0 +1,14 @@
+uuid: ab123dc5-ab4d-4679-9890-beffbba33db0
+name: theme
+mail: deeksha@specbee.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
